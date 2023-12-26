@@ -20,7 +20,7 @@ https://mesg-xi.vercel.app/
 
 💬 **기업별 실시간 커뮤니티 제공**
 
-## 개발
+## 개발진
 
 ![Slide 16_9 - 24](https://github.com/fjqmqjrm/mesg/assets/126189239/8c4981a0-a418-427b-907b-ff5050ee39b0)
 
